@@ -1,0 +1,114 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Demo";
+}
+
+
+<div class="page-content">
+
+    <div class="title_wrap">
+        <div class="container">
+            <h3 class="page-title">Schedule a demo</h3>
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="/">Home</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Schedule a demo</li>
+                </ol>
+            </nav>
+        </div>
+    </div>
+
+
+
+    <section>
+        <div class="container">
+
+
+            <div class="box contact">
+                <div class="row">
+                    <div class="col-md-12">
+
+                        <div class="form_wrap form_wrap_floating col2">
+                            <div class="p_heading">
+                                <span class="h_text">Schedule   <b>a demo</b></span>
+                                <p>If you have any questions please fell free to contact with us.</p>
+                            </div>
+
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="con_FirstName" autocomplete="off" placeholder="Enter your name" maxlength="50" />
+                                <label class="label" for="con_FirstName">Enter your name*</label>
+                                <span class="msg field-validation-valid"></span>
+                            </div>
+                            <div class="form-floating">
+                                <input type="text" class="form-control" id="con_Company" autocomplete="off" placeholder="Company Name" maxlength="50" />
+                                <label class="label" for="con_Company">Company Name</label>
+                                <span class="msg field-validation-valid"></span>
+                            </div>
+                            <div class="form-floating req">
+                                <input type="text" class="form-control" id="con_Email" autocomplete="off" placeholder="Enter Email ID" />
+                                <label class="label" for="con_Email">Enter Email ID</label>
+                                <span class="msg field-validation-valid"></span>
+                            </div>
+                            <div class="form-floating req">
+                                <input type="text" class="form-control" id="con_Mobile" autocomplete="off" placeholder="Enter Mobile No." maxlength="12" />
+                                <label class="label" for="con_Mobile">Enter Mobile No.</label>
+                                <span class="msg field-validation-valid"></span>
+                            </div>
+
+                            <div class="form-floating col1">
+                                <textarea class="form-control" autocomplete="off" placeholder="Comments" id="con_Comments"></textarea>
+                                <label class="label" for="con_Comments">Comments</label>
+                                <span class="msg field-validation-valid"></span>
+                            </div>
+                            <div class="form-floating col1 btns">
+                                <button class="btn btn-primary lg" type="submit">Send</button>
+                            </div>
+                            <div class="form-floating col1 chk">
+                                <label class="checkbox">
+                                    Do you want to subscribe our Newsletter ?
+                                    <input id="chkRemember" type="checkbox" name="chkRemember"><span class="checkmark"></span>
+                                </label>
+                            </div>
+                        </div>
+
+                    </div>
+                  
+                </div>
+
+            </div>
+
+            <div class="contact_info">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="contact_col">
+                            <div class="contact_icon"><i class="fa-regular fa-address-book"></i></div>
+                            <h4>Address</h4>
+                            <p>
+                                As Sahafah, Olaya St. 6531, 3059
+                                Riyadh 13321
+                                Saudi Arabia
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="contact_col">
+                            <div class="contact_icon"><i class="fa-solid fa-phone-volume"></i></div>
+                            <h4>Phone</h4>
+                            <p><a href="tell:+966509640640">+966509640640</a></p>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="contact_col">
+                            <div class="contact_icon"><i class="fa-regular fa-envelope"></i></div>
+                            <h4>E-Mail</h4>
+                            <p><a href="mailto:info@propequity.in">info@propequityme.com</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+</div>

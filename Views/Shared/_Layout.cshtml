@@ -1,0 +1,47 @@
+﻿@{
+    string ClassName = "";
+    if (ViewData["bodyClass"]!=null)
+    ClassName = ViewData["bodyClass"].ToString();
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PropEquity ME</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/Styles/site.css" asp-append-version="true" />
+
+    <!--<link rel="icon" type="image/x-icon" href="assets/favicon.ico" /> -->
+    <link rel="icon" type="image/x-icon" href="/favicon.png" />
+
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+
+    <link href="~/styles/bootstrap.min.css" rel="stylesheet" asp-append-version="true" />
+    <link href="~/styles/styles.css" rel="stylesheet" asp-append-version="true" />
+    <link href="~/styles/responsive.css" rel="stylesheet" asp-append-version="true" />
+</head>
+<body class="@ClassName ht3">
+
+    <partial name="_Header" />
+    <!-- <partial name="_Menu" /> -->
+    <div class="page_data">
+
+   
+            @Html.AntiForgeryToken()
+
+            @RenderBody()
+
+    </div>
+
+
+    <partial name="_Footer" />
+  
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

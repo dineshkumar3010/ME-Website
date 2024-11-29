@@ -1,0 +1,100 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Comming Soon";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PropEquity ME</title>
+
+   
+
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+
+    <link href="~/styles/bootstrap.min.css" rel="stylesheet" asp-append-version="true" />
+    <link href="~/styles/styles.css" rel="stylesheet" asp-append-version="true" />
+</head>
+
+<body class="cs">
+    <!-- Background Video-->
+    <video class="bg-video bgonly" playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+        <!-- <source src="assets/mp4/bg.mp4" type="video/mp4" />
+        -->
+    </video>
+    <!-- Masthead-->
+    <div class="masthead">
+        <div class="masthead-content">
+            <div class="container-fluid">
+                <div class="pe_logo_me"><img src="../images/PElogo4.png" width="300" height="103" alt="" /></div>
+                <h1>Our Website is  <br>Coming Soon</h1>
+                <p>Sign up below to receive updates and to be <br>notified when we launch!</p>
+
+                <form id="contactForm" class="contactForm">
+
+                    <div class="row input-group-newsletter">
+                        <div class="col"><input class="form-control" id="email" type="email" placeholder="Enter email address..." aria-label="Enter email address..." data-sb-validations="required,email" /></div>
+                        <div class="col-auto"><button class="btn btn-primary disabled" id="submitButton" type="submit">Notify Me!</button></div>
+                    </div>
+                    <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
+                    <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
+
+                    <div class="d-none" id="submitSuccessMessage">
+                        <div class="text-center">
+                            <div class="fw-bolder">Form submission successful!</div>
+                            Please visit our Main Website
+                            <br />
+                            <a target="_blank" href="https://www.propequity.in/">propequity.in</a>
+                        </div>
+                    </div>
+
+                    <div class="d-none" id="submitErrorMessage"><div class="text-center text-danger mb-3 mt-2">Error sending message!</div></div>
+                </form>
+
+                <div class="con_info">
+                    <div class="con_info_col">
+                        <h4>Location</h4>
+                        <p>
+                            As Sahafah, Olaya St. 6531, 3059<br>
+                            Riyadh 13321<br>
+                            Saudi Arabia
+                        </p>
+                    </div>
+
+                    <div class="con_info_col">
+                        <h4>Contacts</h4>
+                        <p>
+                            <span class="callinfo email"><i class="fa fa-envelope"></i><a href="mailto:info@propequity.in">info@propequityme.com</a></span><span class="callinfo"><i class="fa fa-phone"></i><a href="tell:+966509640640">+966509640640</a> </span>
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+
+        <div class="poweredby">Powered By:  <a target="_blank" href="https://www.propequity.in/"><img class="pe_logo" src="../images/propequity-logo_sm.png" alt="" /></a></div>
+    </div>
+    <!-- Social Icons-->
+
+    <div class="social-icons">
+        <div class="d-flex flex-row flex-md-column justify-content-center align-items-center mt-3 mt-lg-0">
+            <a class="btn follow_icon facebook" href="http://facebook.com/samirjasujapropequity" target="_blank" rel="nofollow"><i class="fab fa-facebook"></i></a>
+            <a class="btn follow_icon instagram" href="https://www.instagram.com/samirjasujapropequity/" target="_blank" rel="nofollow"><i class="fab fa-instagram"></i></a>
+            <a class="btn follow_icon linkedin" href="https://www.linkedin.com/company/propequity/" target="_blank" rel="nofollow"><i class="fab fa-linkedin"></i></a>
+            <a class="btn follow_icon twitter" href="https://twitter.com/#!/JasujaSamir" target="_blank" rel="nofollow"><i class="fab fa-twitter"></i></a>
+            <a class="btn follow_icon youtube" href="https://www.youtube.com/channel/UCV3woQnwayM2cCaHQqRii8w" target="_blank" rel="nofollow"><i class="fab fa-youtube"></i></a>
+
+        </div>
+    </div>
+
+</body>
+</html>
