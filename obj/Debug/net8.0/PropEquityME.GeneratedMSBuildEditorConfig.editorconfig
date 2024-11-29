@@ -1,0 +1,91 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PropEquityME
+build_property.RootNamespace = PropEquityME
+build_property.ProjectDir = G:\Project\PropEquity_ME\branches\Code\PropEquityME\PropEquityME\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = G:\Project\PropEquity_ME\branches\Code\PropEquityME\PropEquityME
+build_property._RazorSourceGeneratorDebug = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/AboutUS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVTLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/Commingsoon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21taW5nc29vbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/OurHistory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPdXJIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/OURTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPVVJUZWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/PrivacyPolicy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5UG9saWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/ProductAndServices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0QW5kU2VydmljZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/Schedule_A_Demo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTY2hlZHVsZV9BX0RlbW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Home/terms_n_conditions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0ZXJtc19uX2NvbmRpdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Shared/_Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Project/PropEquity_ME/branches/Code/PropEquityME/PropEquityME/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nl5225lpbh

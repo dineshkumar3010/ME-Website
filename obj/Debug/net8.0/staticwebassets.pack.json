@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PropEquityME.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PropEquityME.bundle.scp.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Home.html",
+      "PackagePath": "staticwebassets\\Home.html"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\ME_Logo.png",
+      "PackagePath": "staticwebassets\\Images\\ME_Logo.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\ME_Logo1.png",
+      "PackagePath": "staticwebassets\\Images\\ME_Logo1.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\ME_Logo2.png",
+      "PackagePath": "staticwebassets\\Images\\ME_Logo2.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\PE logo_w2.png",
+      "PackagePath": "staticwebassets\\Images\\PE logo_w2.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\PE_logo_w.png",
+      "PackagePath": "staticwebassets\\Images\\PE_logo_w.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\PElogo old.png",
+      "PackagePath": "staticwebassets\\Images\\PElogo old.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\PElogo.png",
+      "PackagePath": "staticwebassets\\Images\\PElogo.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\PElogo2.png",
+      "PackagePath": "staticwebassets\\Images\\PElogo2.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\PElogo3.png",
+      "PackagePath": "staticwebassets\\Images\\PElogo3.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\PElogo4.png",
+      "PackagePath": "staticwebassets\\Images\\PElogo4.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\about_bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\about_bg.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\about_bg2.jpg",
+      "PackagePath": "staticwebassets\\Images\\about_bg2.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\about_bg3.jpg",
+      "PackagePath": "staticwebassets\\Images\\about_bg3.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\about_bg4.jpg",
+      "PackagePath": "staticwebassets\\Images\\about_bg4.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\bg-mobile-fallback.jpg",
+      "PackagePath": "staticwebassets\\Images\\bg-mobile-fallback.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\cs_bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\cs_bg.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Images\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\home_bg1.jpg",
+      "PackagePath": "staticwebassets\\Images\\home_bg1.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\home_bg2.jpg",
+      "PackagePath": "staticwebassets\\Images\\home_bg2.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\home_bg3.jpg",
+      "PackagePath": "staticwebassets\\Images\\home_bg3.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\list-arrow.gif",
+      "PackagePath": "staticwebassets\\Images\\list-arrow.gif"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\mp4\\bg.mp4",
+      "PackagePath": "staticwebassets\\Images\\mp4\\bg.mp4"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\mp4\\cs_bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\mp4\\cs_bg.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\our_history.png",
+      "PackagePath": "staticwebassets\\Images\\our_history.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\our_team.png",
+      "PackagePath": "staticwebassets\\Images\\our_team.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\propequity-logo_sm.png",
+      "PackagePath": "staticwebassets\\Images\\propequity-logo_sm.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\riyadh-1536x864.jpg",
+      "PackagePath": "staticwebassets\\Images\\riyadh-1536x864.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\ser_asset-management.png",
+      "PackagePath": "staticwebassets\\Images\\ser_asset-management.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\serv_advisory.png",
+      "PackagePath": "staticwebassets\\Images\\serv_advisory.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\serv_h_studies.png",
+      "PackagePath": "staticwebassets\\Images\\serv_h_studies.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\serv_management.png",
+      "PackagePath": "staticwebassets\\Images\\serv_management.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\serv_studies.png",
+      "PackagePath": "staticwebassets\\Images\\serv_studies.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\serv_subscription.png",
+      "PackagePath": "staticwebassets\\Images\\serv_subscription.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\social-media-icon.png",
+      "PackagePath": "staticwebassets\\Images\\social-media-icon.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Images\\title_wrap_bg.jpg",
+      "PackagePath": "staticwebassets\\Images\\title_wrap_bg.jpg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Scripts\\scripts.js",
+      "PackagePath": "staticwebassets\\Scripts\\scripts.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Styles\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Styles\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Styles\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Styles\\font-awesome.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Styles\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Styles\\font-awesome.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Styles\\responsive.css",
+      "PackagePath": "staticwebassets\\Styles\\responsive.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Styles\\site.css",
+      "PackagePath": "staticwebassets\\Styles\\site.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\Styles\\styles.css",
+      "PackagePath": "staticwebassets\\Styles\\styles.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\about-us.html",
+      "PackagePath": "staticwebassets\\about-us.html"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\OpenSans.eot",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans.eot"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\OpenSans.svg",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans.svg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\OpenSans.ttf",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans.ttf"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\OpenSans.woff",
+      "PackagePath": "staticwebassets\\fonts\\OpenSans.woff"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "G:\\Project\\PropEquity_ME\\branches\\Code\\PropEquityME\\PropEquityME\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PropEquityME.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PropEquityME.props",
+      "PackagePath": "build\\PropEquityME.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PropEquityME.props",
+      "PackagePath": "buildMultiTargeting\\PropEquityME.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PropEquityME.props",
+      "PackagePath": "buildTransitive\\PropEquityME.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
