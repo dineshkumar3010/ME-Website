@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PropEquityME_DAL\PropEquityME_DAL.csproj" />
+    <ProjectReference Include="..\PropEquityME_DOM\PropEquityME_DOM.csproj" />
+    <ProjectReference Include="..\PropEquityME_Utility\PropEquityME_Utility.csproj" />
+  </ItemGroup>
+
+</Project>
